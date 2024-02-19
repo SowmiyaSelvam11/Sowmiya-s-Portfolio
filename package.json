@@ -136,9 +136,6 @@
     "presets": [
       "react-app"
     ]
-  },
-  "scripts": {
-    "start": "NODE_OPTIONS=--openssl-legacy-provider node scripts/start.js"
   }
  
   
